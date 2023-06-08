@@ -1,4 +1,0 @@
-{"Store": 20, "DayOfWeek": 4, "Date": "2015-09-17", "Open": 1.0, "Promo": 1, "StateHoliday": "0", "SchoolHoliday": 0, "StoreType": "d", "Assortment": "a", "CompetitionDistance": 2340.0, "CompetitionOpenSinceMonth": 5.0,
-"CompetitionOpenSince Year": 2009.0, "Promo2": 1, "Promo2SinceWeek": 40.0, "Promo2Since Year ": 2014.0, "Promo Interval": "Jan, Abr, Jul, Out"}, {"Store": 22, "DayOfWeek": 4, "Data": "2015-09-17", "Aberto": 1.0 , "Promo":
-1, "StateHoliday": "0", "SchoolHoliday": 0, "StoreType": "a", "Assortment": "a", "CompetitionDistance": 1040.0, "CompetitionOpenSinceMonth": NaN, " CompetitionOpenSince Year": NaN, "Promo2": 1, "Promo2SinceWeek":
-22,0, "Promo2Since Year": 2012,0. "Intervalo promocional": "janeiro, abril, julho, outubro"}
